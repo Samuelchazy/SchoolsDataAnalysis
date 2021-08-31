@@ -1,2 +1,2 @@
 # SchoolsDataAnalysis
-Analyzing Schools' grades &amp; profile
+Analyzing Schools' grades & profiles
